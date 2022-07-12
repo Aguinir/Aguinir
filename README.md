@@ -1,6 +1,5 @@
 ## Olá, eu sou Aguinir Pretti 👋
 
- :books:   Atualmente estudando fullstack na DIO | **digitalinnovationone**  
 
 <div align="center">
   <a href="https://github.com/Aguinir">
